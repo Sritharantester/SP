@@ -8,7 +8,8 @@ public class Githubclass {
 		System.out.println("Modified");
 		
 		
-		System.out.println("Modified BY SEERTHY");
+		System.out.println("Modified BY SEERTHYJAYARAMAN");
+		
 	}
 
 }
